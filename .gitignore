@@ -1,0 +1,5 @@
+.idea
+.venv
+__pycache__/
+__.DS_Store__/
+/data/finance_manager.db
